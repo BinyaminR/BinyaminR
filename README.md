@@ -8,7 +8,7 @@ Having recently completed a DevOps engineering course through the Lochamin L'Hit
 
 * 🌍  I'm based in Israel
 * ✉️  You can contact me at [binyamin.rothenberg@gmail.com](mailto:binyamin.rothenberg@gmail.com)
-* 🚀  I'm currently working on [Compound Interest app](http://34.83.2.172:5000/)
+* 🚀  I'm currently working on [Compound Interest app](http://34.145.63.61/)
 * 🧠  I'm learning GCP
 * 🤝  I'm open to collaborating on projects
 
